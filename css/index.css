@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    background-color: rgba(235, 217, 168, 0.849);
+    color: rgb (24, 24, 24);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+main {
+    margin:0 auto - 50px;
+}
+
+main > div > h1 {
+    position: relative; 
+    padding: 0% 10% 0% 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px; 
+    text-align: center; 
+    letter-spacing: 3px;
+    color: rgb(114, 81, 81);
+}
